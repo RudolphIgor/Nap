@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/rudolphigor.github.io/static/css/main.af62fca1.css",
-    "main.js": "/rudolphigor.github.io/static/js/main.805b36f5.js",
-    "static/media/Ubuntu-Light.ttf": "/rudolphigor.github.io/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
-    "static/media/Inter-SemiBold.ttf": "/rudolphigor.github.io/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
-    "static/media/Ubuntu-Regular.ttf": "/rudolphigor.github.io/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
-    "static/media/Ubuntu-Medium.ttf": "/rudolphigor.github.io/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
-    "static/media/Ubuntu-Bold.ttf": "/rudolphigor.github.io/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
-    "static/media/Montserrat-Bold.ttf": "/rudolphigor.github.io/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
-    "static/media/Montserrat-Medium.ttf": "/rudolphigor.github.io/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
-    "static/media/Montserrat-Regular.ttf": "/rudolphigor.github.io/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
-    "static/media/SofiaSans-Medium.ttf": "/rudolphigor.github.io/static/media/SofiaSans-Medium.8f6b24f3c15f7a94d2ba.ttf",
-    "static/media/SofiaSans-Bold.ttf": "/rudolphigor.github.io/static/media/SofiaSans-Bold.7880296ebde67695e3ad.ttf",
-    "static/media/SofiaSans-Regular.ttf": "/rudolphigor.github.io/static/media/SofiaSans-Regular.6d587c9940f9a914bb10.ttf",
-    "static/media/logo.svg": "/rudolphigor.github.io/static/media/logo.82e894311f04cf6e1f01148dfd85d3b4.svg",
-    "static/media/insta.svg": "/rudolphigor.github.io/static/media/insta.561d4aea96899ecb73cb316759d1f1d3.svg",
-    "static/media/whatsup.svg": "/rudolphigor.github.io/static/media/whatsup.8caeacb2d2fb771775956c63a9fc971c.svg",
-    "index.html": "/rudolphigor.github.io/index.html",
-    "static/media/telegram.svg": "/rudolphigor.github.io/static/media/telegram.ae469b47b72715b627cbfe63d08f8d76.svg",
-    "static/media/iconClose.svg": "/rudolphigor.github.io/static/media/iconClose.eb4c7782b891c3a14240a32b3e0ba4c3.svg",
-    "main.af62fca1.css.map": "/rudolphigor.github.io/static/css/main.af62fca1.css.map",
-    "main.805b36f5.js.map": "/rudolphigor.github.io/static/js/main.805b36f5.js.map"
+    "main.css": "/rudolphigor.github.io/Nap/static/css/main.89db629d.css",
+    "main.js": "/rudolphigor.github.io/Nap/static/js/main.3abe2ba7.js",
+    "static/media/Ubuntu-Light.ttf": "/rudolphigor.github.io/Nap/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
+    "static/media/Inter-SemiBold.ttf": "/rudolphigor.github.io/Nap/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Ubuntu-Regular.ttf": "/rudolphigor.github.io/Nap/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/rudolphigor.github.io/Nap/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/rudolphigor.github.io/Nap/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "static/media/Montserrat-Bold.ttf": "/rudolphigor.github.io/Nap/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/Montserrat-Medium.ttf": "/rudolphigor.github.io/Nap/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/Montserrat-Regular.ttf": "/rudolphigor.github.io/Nap/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/SofiaSans-Medium.ttf": "/rudolphigor.github.io/Nap/static/media/SofiaSans-Medium.8f6b24f3c15f7a94d2ba.ttf",
+    "static/media/SofiaSans-Bold.ttf": "/rudolphigor.github.io/Nap/static/media/SofiaSans-Bold.7880296ebde67695e3ad.ttf",
+    "static/media/SofiaSans-Regular.ttf": "/rudolphigor.github.io/Nap/static/media/SofiaSans-Regular.6d587c9940f9a914bb10.ttf",
+    "static/media/logo.svg": "/rudolphigor.github.io/Nap/static/media/logo.82e894311f04cf6e1f01148dfd85d3b4.svg",
+    "static/media/insta.svg": "/rudolphigor.github.io/Nap/static/media/insta.561d4aea96899ecb73cb316759d1f1d3.svg",
+    "static/media/whatsup.svg": "/rudolphigor.github.io/Nap/static/media/whatsup.8caeacb2d2fb771775956c63a9fc971c.svg",
+    "index.html": "/rudolphigor.github.io/Nap/index.html",
+    "static/media/telegram.svg": "/rudolphigor.github.io/Nap/static/media/telegram.ae469b47b72715b627cbfe63d08f8d76.svg",
+    "static/media/iconClose.svg": "/rudolphigor.github.io/Nap/static/media/iconClose.eb4c7782b891c3a14240a32b3e0ba4c3.svg",
+    "main.89db629d.css.map": "/rudolphigor.github.io/Nap/static/css/main.89db629d.css.map",
+    "main.3abe2ba7.js.map": "/rudolphigor.github.io/Nap/static/js/main.3abe2ba7.js.map"
   },
   "entrypoints": [
-    "static/css/main.af62fca1.css",
-    "static/js/main.805b36f5.js"
+    "static/css/main.89db629d.css",
+    "static/js/main.3abe2ba7.js"
   ]
 }
