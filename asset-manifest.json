@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rudolphigor.github.io/Nap/static/css/main.89db629d.css",
-    "main.js": "/rudolphigor.github.io/Nap/static/js/main.3abe2ba7.js",
+    "main.js": "/rudolphigor.github.io/Nap/static/js/main.91dd4152.js",
     "static/media/Ubuntu-Light.ttf": "/rudolphigor.github.io/Nap/static/media/Ubuntu-Light.0dd2d5986e2731a16ee7.ttf",
     "static/media/Inter-SemiBold.ttf": "/rudolphigor.github.io/Nap/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
     "static/media/Ubuntu-Regular.ttf": "/rudolphigor.github.io/Nap/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
@@ -20,10 +20,10 @@
     "static/media/telegram.svg": "/rudolphigor.github.io/Nap/static/media/telegram.ae469b47b72715b627cbfe63d08f8d76.svg",
     "static/media/iconClose.svg": "/rudolphigor.github.io/Nap/static/media/iconClose.eb4c7782b891c3a14240a32b3e0ba4c3.svg",
     "main.89db629d.css.map": "/rudolphigor.github.io/Nap/static/css/main.89db629d.css.map",
-    "main.3abe2ba7.js.map": "/rudolphigor.github.io/Nap/static/js/main.3abe2ba7.js.map"
+    "main.91dd4152.js.map": "/rudolphigor.github.io/Nap/static/js/main.91dd4152.js.map"
   },
   "entrypoints": [
     "static/css/main.89db629d.css",
-    "static/js/main.3abe2ba7.js"
+    "static/js/main.91dd4152.js"
   ]
 }
